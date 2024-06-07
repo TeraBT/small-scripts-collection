@@ -35,7 +35,7 @@ print("----------------------------------------")
 print("Score without bonus points: {:.2f}\nGrade with bonus points {:.2f}".format(score_with_presentations, score_to_grade(score_with_presentations)))
 print("----------------------------------------")
 print("Conjectorial score without considering bonus points: {:.2f}".format(score_conjectorial))
-print("Conjectorial score without consudierung presentation and bonus points: {:.2f}".format(score_conjectorial_pure))
+print("Conjectorial score without considering presentation and bonus points: {:.2f}".format(score_conjectorial_pure))
 print("----------------------------------------")
 print("To attain the highest grade with your current total score {:.2f} (after {} weeks), you would need {:.2f} additional points in total.\n"
       "Relying solely on the following {} weeks' assignments, you would need {:.2f} points for each assignment on average."
